@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(66, 129, 129);
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+  height: 100vh;
+  width: auto;
+  padding: 30px;
+}
+
+.container-calc {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px 0;
+  text-align: center;
+  width: auto;
+  max-width: 500px;
+  height: fit-content;
+  margin: 0px auto 0px auto;
+  background-color: burlywood;
+  background-size: cover;
+  border: solid black 2px;
+  border-radius: 20px;
+}
+
+span {
+  border-bottom: 2px solid black;
+  padding: 4px;
+}
+
+.button-calc {
+  margin: 20px 0;
+  background: rgb(177, 50, 166);
+  color: black;
+  border: 1px solid black;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 5px 8px;
+}
